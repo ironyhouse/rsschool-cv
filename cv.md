@@ -24,6 +24,7 @@ Github profile:      | https://github.com/ironyhouse
 ***
 #### Additional education:
 ###### **Course** "Quick start 2.0" for website development on CMS WordPress.
+###### **Course** "BELhard Academy" for Front-End development.
 ###### **Example of work performed:** http://www.artzonatut.by
 ***
 #### English level: A2. 
